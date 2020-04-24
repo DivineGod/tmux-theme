@@ -12,7 +12,7 @@
 In `.tmux.conf` add the following line
 
 ```
-`set -g @plug 'divinegod/tmux-theme`
+set -g @plug 'divinegod/tmux-theme`
 ```
 
 Hit `prefix + I` to fetch the plugin and source it.
