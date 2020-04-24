@@ -20,3 +20,4 @@ Your tmux should be updated with the theme at this point.
 
 [github-tmux]: https://github.com/tmux/tmux
 [github-grovbox]: https://github.com/morhetz/gruvbox
+[github-tpm]: https://github.com/tmux-plugins/tpm
