@@ -19,5 +19,5 @@ Hit `prefix + I` to fetch the plugin and source it.
 Your tmux should be updated with the theme at this point.
 
 [github-tmux]: https://github.com/tmux/tmux
-[github-grovbox]: https://github.com/morhetz/gruvbox
+[github-gruvbox]: https://github.com/morhetz/gruvbox
 [github-tpm]: https://github.com/tmux-plugins/tpm
